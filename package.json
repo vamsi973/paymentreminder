@@ -1,0 +1,24 @@
+{
+  "name": "paymentreminder",
+  "version": "1.0.0",
+  "description": "this is codementor dev project",
+  "main": "server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vamsi973/paymentreminder.git"
+  },
+  "author": "vamsikrishnaDanda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vamsi973/paymentreminder/issues"
+  },
+  "homepage": "https://github.com/vamsi973/paymentreminder#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jspdf": "^2.3.1",
+    "mongodb": "^3.6.6"
+  }
+}
